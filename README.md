@@ -40,4 +40,28 @@ Then we cropped the image based on the dimensions and coordinates and stored it 
 
 
 
+
+
+Following are the snaps of procedural working of Task1-a, Task1-b, Task1-c, Task1-d :-
+
+(i) initially ss of folder. -> ![image](https://user-images.githubusercontent.com/75074493/125585976-039448dc-82f6-4785-ad6f-ae1f3754b0b6.png)
+
+(ii) after executing Task1-a -> ![image](https://user-images.githubusercontent.com/75074493/125586336-1717af2e-c921-4330-94a0-51dc3c651435.png)
+
+(iii) after executing Task1-b -> ![image](https://user-images.githubusercontent.com/75074493/125586524-434f56e3-a7bc-4786-b2dd-11357c218ee7.png)
+                                 ![image](https://user-images.githubusercontent.com/75074493/125586549-744ecf5a-2223-45e8-807b-99ff92f625e6.png)
+                                 
+(iv) after executing Task1-c ->![image](https://user-images.githubusercontent.com/75074493/125586656-536cdbf9-e330-4f3f-8d5f-20b199f25518.png)
+                               ![image](https://user-images.githubusercontent.com/75074493/125586765-3dd28437-b3ff-4b85-8de6-ef1db77c5793.png)
+                               ![image](https://user-images.githubusercontent.com/75074493/125586789-16b2ce5b-3031-442a-aa49-fdec13ded413.png)
+
+(v) after executing Task1-d -> ![image](https://user-images.githubusercontent.com/75074493/125587007-ce2dd874-bfd0-49b1-ad43-167e407fa366.png)
+                               ![image](https://user-images.githubusercontent.com/75074493/125587096-b83c9775-7fda-4235-ae48-b3532c08b044.png)
+
+
+
+
+
+
+
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!  THANKS   !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
