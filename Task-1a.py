@@ -14,7 +14,7 @@ saved_image_frames = cv.VideoWriter('Project_video.avi', four_cc, fps, (int(fram
 
 start_time = time.time()
 
-while int(time.time() - start_time) < 6:
+while int(time.time() - start_time) < 30:
     print(int(time.time() - start_time))
     ret, frame = cap.read()
     if ret:
